@@ -8,7 +8,6 @@ import org.springframework.security.oauth2.config.annotation.web.configuration.E
  * @author Calvin
  * @date 2020/6/7 0:31
  */
-@EnableAuthorizationServer
 @SpringBootApplication
 public class Oauth2Application {
 
